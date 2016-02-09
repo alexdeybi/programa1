@@ -9,10 +9,10 @@ public class Programa1 {
        
         int a=5+5;
         int suma=a;
-        System.out.println("La suma es: "+suma);
-        
-        
-        
+        System.out.println("La suma es: "+suma);  
     }
-    
+   
+    public void metodo(){
+        System.out.println(" Esto es un metodo");
+    }
 }
